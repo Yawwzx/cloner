@@ -9,6 +9,6 @@
 #
 ### Clone && Instalação
 ```
-https://github.com/Yawwzx/cloner
+git clone https://github.com/Yawwzx/cloner
 cd cloner
 bash y7cloner.sh
